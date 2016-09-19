@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Into the world of web development
+title: Learn from yesterday, live for today, hope for tomorrow
 locale: en_US
 url:
 
@@ -43,7 +43,7 @@ titlecase: true
 owner:
   name: Dineshkumar Raman
   avatar: rdk.jpg
-  bio: "Yet another developer playing his role in the world of web development"
+  bio: "A passionate #Elixir programmer rejoicing at sharing what I learn"
   email: rahuldinesh1991@gmail.com
   twitter: radik9O9
   facebook: radik909

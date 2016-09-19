@@ -1,5 +1,5 @@
 ---
 layout: home
-excerpt: "A blog on web development by developer Dineshkumar Raman."
-tags: [dineshkumar, radik909, blog, elixir, phoenix, ecto, web development]
+excerpt: "A passionate #Elixir programmer rejoicing at sharing what I learn"
+tags: [dineshkumar, radik909, blog, elixir, phoenix, ecto, web, post, posts, development, programming]
 ---
